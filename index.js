@@ -37,6 +37,5 @@ console.log(fullName)
 console.log(phoneNumber)
 console.log(emailAddress)
 console.log(address)
-
-
+console.log(fullName[0])
 
